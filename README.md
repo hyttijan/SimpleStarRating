@@ -1,2 +1,2 @@
 # SimpleStarRating
-Simple star rating
+Simple star rating using CSS and javascript
